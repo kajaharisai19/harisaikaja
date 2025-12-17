@@ -49,7 +49,7 @@ export default function Skills() {
   ];
 
   return (
-    <div className="mx-auto max-w-5xl p-6">
+    <div className="mx-auto max-w-5xl px-6 text-left">
       <h2 className="text-3xl font-bold">Skills</h2>
       <p className="mt-2 text-gray-600">
         A quick overview of the technologies and tools I work with.
